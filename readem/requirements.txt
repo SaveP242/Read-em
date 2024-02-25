@@ -1,0 +1,4 @@
+PyMuPDF
+bert-extractive-summarizer
+flask
+pyttsx3

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ReadBert</title>
+</head>
+<body>
+    <h1>ReadBERT</h1>
+
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".pdf" required>
+        <p>Translate:
+            <input type="radio" name="translate" value="yes" checked>Yes
+            <input type="radio" name="translate" value="no">No
+        </p>
+        <p>Summarize:
+            <input type="radio" name="summarize" value="yes" checked>Yes
+            <input type="radio" name="summarize" value="no">No
+        </p>
+        <p>Read Out:
+            <input type="radio" name="read_out" value="yes">Yes
+            <input type="radio" name="read_out" value="no" checked>No
+        </p>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
