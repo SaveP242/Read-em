@@ -38,7 +38,7 @@ Open your web browser and navigate to http://127.0.0.1:5000. You should see the 
 
 ## Usage:
 - Reading PDFs: Upload a PDF file using the provided form on the homepage. Once uploaded, you'll be able to listen the contents of the PDF by clicking yes.
-- Translating Text: After reading the PDF, you have the option to translate the text into Emglish. Select the yes option to do so.
+- Translating Text: After reading the PDF, you have the option to translate the text into English. Select the yes option to do so.
 - Summarizing Text: Lastly, you can summarize the text by clicking yes on the "Summarize" button. This will provide you with a concise summary of the content.
 
 And that's it! You're all set up and ready to use Read'em. If you encounter any issues or have any questions, feel free to reach out to me. Happy reading!
